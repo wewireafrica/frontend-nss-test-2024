@@ -2,11 +2,11 @@
 
 Currency Converter Application Test
 Objective:
-Create a NestJS application that allows users to calculate conversion between currencies. 
+Create a NextJs application that allows users to calculate conversion between currencies. 
 The purpose of this test is to test your ability to solve problems and how you approach writing code.
 
 User Interface:
-Having a fancy design is not compulsory and may not affect how we judge your performance. You're required to use
+Having a fancy design is not compulsory and may not affect how we judge your performance.  
 
 
 Currency Data:
@@ -49,5 +49,5 @@ Performance and optimization techniques
 Error handling and edge case management
 
 Time Limit:
-You have 5 days to complete this test. Quality is more important than speed, so take the time to showcase your best work.
+You have 4 days to complete this test. Quality is more important than speed, so take the time to showcase your best work.
 Would you like me to elaborate on any part of these instructions?
